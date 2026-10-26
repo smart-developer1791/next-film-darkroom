@@ -1,0 +1,17 @@
+{
+  "mode": "Built-in imagegen",
+  "images": [
+    {
+      "slug": "corner-light",
+      "prompt": "Use case: photorealistic-natural. Asset type: original sample photograph for a fictional browser photo darkroom, also used as a large editorial website hero. Primary request: a quiet old European-style street corner in soft late-afternoon sunlight, warm ochre plaster facade, dark green wooden window shutters, a small terracotta planter, long gentle shadows on pale stone pavement. Composition: landscape 3:2 with clear architectural lines, building corner to the right, open pavement and light to the left, a tactile candid 35mm photograph. Natural accurate colour and a little fine grain, not a heavily filtered picture. No people, no cars, no shop signage, no readable text, no logos, no watermark, no identifiable famous location."
+    },
+    {
+      "slug": "coast-road",
+      "prompt": "Use case: photorealistic-natural. Asset type: original sample photo for a browser colour-grading darkroom. Primary request: a quiet empty coastal road curving gently beside a blue-green sea, low pale concrete edge, dry grasses in the foreground, distant hazy headland, clear softly overcast sky. Composition: landscape 3:2, sea and road both clearly visible, balanced middle-distance view, a calm documentary 35mm photograph. Natural unfiltered blues, sage greens and sandy neutrals with restrained fine grain. No cars, no people, no signs, no text, no logos, no watermark, no famous identifiable location."
+    },
+    {
+      "slug": "citrus-table",
+      "prompt": "Use case: photorealistic-natural. Asset type: original still-life sample photo for a browser photo colour darkroom. Primary request: a shallow handmade cream ceramic bowl with three whole oranges and one orange half on a muted pale blue kitchen table, a loosely folded natural linen cloth and a small deep green glass bottle near the edge. Soft window light, realistic citrus skin and ceramic texture, quiet editorial food photography. Composition: landscape 3:2 with complete objects and breathing room, three-quarter angle, naturally accurate colours, restrained fine photographic grain. No people, no hands, no text, no labels, no logos, no watermark."
+    }
+  ]
+}
